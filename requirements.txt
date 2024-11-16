@@ -1,3 +1,4 @@
 matplotlib~=3.9.2
 networkx~=3.4.2
 pygments~=2.15.1
+cryptidy~=1.2.3
